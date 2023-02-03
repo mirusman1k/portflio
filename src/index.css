@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan&family=Poppins:wght@100;200;300;400;500;600;700;900&display=swap');
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+font-family: 'Poppins', sans-serif;
+
+}
+body{
+background:#393E46 ;
+}
+h1 ,h4, p, a{
+  text-decoration: none;
+  color: #EEEEEE;
+}
+
+ul{
+  list-style-type: none;
+}
+.btn {
+  padding: 13px 32px;
+  font-size: 1rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  background: #00ADB5 ;
+  color: #222831;
+  cursor: pointer;
+  border: 1px solid #00ADB5 ;
+  border-radius: 5px;
+}
+.btn-light{
+  background: transparent;
+  color: #EEEEEE;
+  border-radius: 5px;
+}
+
+.btn:hover{
+  background: #393E46;
+  color: #EEEEEE;
+  transition: 0.3s;
+}
