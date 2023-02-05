@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a58ed8a.css",
+    "main.js": "/static/js/main.8a5410b2.js",
+    "static/media/img1.png": "/static/media/img1.74c53e2a80ce83bedbc9.png",
+    "static/media/img3.png": "/static/media/img3.c55278f0b7c777d6d665.png",
+    "static/media/img2.png": "/static/media/img2.75e5c83947f605a466cb.png",
+    "static/media/intro.jpg": "/static/media/intro.f40e72642c13be8d133b.jpg",
+    "static/media/pexels-spencer-selover-706143.jpg": "/static/media/pexels-spencer-selover-706143.f478b5c2da460aa020c9.jpg",
+    "index.html": "/index.html",
+    "main.1a58ed8a.css.map": "/static/css/main.1a58ed8a.css.map",
+    "main.8a5410b2.js.map": "/static/js/main.8a5410b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a58ed8a.css",
+    "static/js/main.8a5410b2.js"
+  ]
+}
